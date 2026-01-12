@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="msa">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:18.519"
+        end="00:00:24.942"><span region="Default">8 DISEMBER 2024<br/>VANCOUVER, BRITISH COLUMBIA</span></p>
+      <p
+        begin="00:00:31.740"
+        end="00:00:38.205"><span region="Default">SEDANG MENUTUP PERJALANAN MENAKJUBKAN<br/>DI SELURUH DUNIA</span></p>
+      <p
+        begin="00:00:42.918"
+        end="00:00:48.924"><span region="Default">SELEPAS 149 PERSEMBAHAN DI LIMA BENUA</span></p>
+      <p
+        begin="00:00:49.758"
+        end="00:00:56.181"><span region="Default">MENGHUBUNGKAN LEBIH 10 JUTA PEMINAT<br/>DI SELURUH DUNIA</span></p>
+      <p
+        begin="00:00:56.890"
+        end="00:01:02.229"><span region="Default">IA MENJADI JELAJAH<br/>DENGAN KUTIPAN TERTINGGI DALAM SEJARAH</span></p>
+      <p
+        begin="00:01:16.910"
+        end="00:01:21.748"><span region="Default">INI ADALAH PERSEMBAHAN TERAKHIR</span></p>
+      <p
+        begin="00:01:21.832"
+        end="00:01:25.627"><span region="Default">Nama saya Taylor<br/>dan saya lahir pada tahun 1989.</span></p>
+      <p
+        begin="00:02:39.326"
+        end="00:02:40.536"><span region="Default">Hai!</span></p>
+      <p
+        begin="00:04:18.884"
+        end="00:04:21.595"><span region="Default">Baiklah, Vancouver, kita sudah pun sampai.</span></p>
+      <p
+        begin="00:04:24.848"
+        end="00:04:26.934"><span region="Default">Ke bridge pertama malam ini.</span></p>
+      <p
+        begin="00:04:27.017"
+        end="00:04:28.268"><span region="Default">Saya ada satu soalan.</span></p>
+      <p
+        begin="00:04:28.894"
+        end="00:04:32.689"><span region="Default">Ada sesiapa tahu<br/>lirik bahagian bridge ini?</span></p>
+      <p
+        begin="00:04:33.607"
+        end="00:04:34.900"><span region="Default">Buktikan!</span></p>
+      <p
+        begin="00:07:24.319"
+        end="00:07:27.823"><span region="Default">Rasanya ini malam yang sangat hebat<br/>untuk berada di Vancouver, bukan?</span></p>
+      <p
+        begin="00:07:59.771"
+        end="00:08:02.149"><span region="Default">Okey, tenaga kamu memang luar biasa. Itu…</span></p>
+      <p
+        begin="00:08:03.150"
+        end="00:08:05.277"><span region="Default">Sejujurnya, sejak lima minit pertama</span></p>
+      <p
+        begin="00:08:05.360"
+        end="00:08:07.696"><span region="Default">cara kamu semua layan saya<br/>di pentas ini, kamu…</span></p>
+      <p
+        begin="00:08:09.156"
+        end="00:08:11.116"><span region="Default">Kamu betul-betul luar biasa.</span></p>
+      <p
+        begin="00:08:11.200"
+        end="00:08:13.118"><span region="Default">Cara kamu layan saya itu sampai…</span></p>
+      <p
+        begin="00:08:13.202"
+        end="00:08:17.247"><span region="Default">Saya risau macam saya dah terlebih yakin.</span></p>
+      <p
+        begin="00:08:17.331"
+        end="00:08:19.082"><span region="Default">Saya…</span></p>
+      <p
+        begin="00:08:23.337"
+        end="00:08:27.466"><span region="Default">Kamu buat saya rasa sangat…</span></p>
+      <p
+        begin="00:08:30.177"
+        end="00:08:31.345"><span region="Default">berpengaruh.</span></p>
+      <p
+        begin="00:08:56.870"
+        end="00:08:57.913"><span region="Default">Kamu semua</span></p>
+      <p
+        begin="00:08:59.414"
+        end="00:09:01.375"><span region="Default">buat saya rasa seperti</span></p>
+      <p
+        begin="00:09:02.251"
+        end="00:09:05.879"><span region="Default">kita dapat habiskan<br/>malam terakhir The Eras Tour</span></p>
+      <p
+        begin="00:09:05.963"
+        end="00:09:09.007"><span region="Default">bersama 60,000 orang<br/>yang begitu hebat di Vancouver.</span></p>
+      <p
+        begin="00:09:26.191"
+        end="00:09:29.361"><span region="Default">Apa yang saya cuba katakan,<br/>kamu buat saya rasa macam saya The Man.</span></p>
+      <p
+        begin="00:15:07.491"
+        end="00:15:12.412"><span region="Default">Saya amat berbesar hati untuk<br/>ucapkan kata-kata ini kepada kamu semua.</span></p>
+      <p
+        begin="00:15:13.580"
+        end="00:15:17.584"><span region="Default">Vancouver, selamat datang<br/>ke The Eras Tour!</span></p>
+      <p
+        begin="00:15:27.386"
+        end="00:15:28.637"><span region="Default">Kami…</span></p>
+      <p
+        begin="00:15:29.888"
+        end="00:15:33.100"><span region="Default">Kami telah menjelajah seluruh dunia<br/>dengan jelajah ini.</span></p>
+      <p
+        begin="00:15:33.183"
+        end="00:15:34.893"><span region="Default">Banyak yang kami dah lalui.</span></p>
+      <p
+        begin="00:15:34.977"
+        end="00:15:38.564"><span region="Default">Pengembaraan yang penuh keterujaan,</span></p>
+      <p
+        begin="00:15:38.647"
+        end="00:15:43.235"><span region="Default">tenaga, emosi, penuh perasaan</span></p>
+      <p
+        begin="00:15:43.944"
+        end="00:15:47.447"><span region="Default">dan paling mencabar selama saya hidup.</span></p>
+      <p
+        begin="00:15:47.531"
+        end="00:15:53.078"><span region="Default">Kami telah buat persembahan untuk lebih<br/>sepuluh juta orang dalam jelajah ini.</span></p>
+      <p
+        begin="00:15:58.250"
+        end="00:15:59.251"><span region="Default">Malam ini,</span></p>
+      <p
+        begin="00:16:00.002"
+        end="00:16:05.048"><span region="Default">kami dapat buat persembahan terakhir<br/>untuk kamu di Vancouver yang indah.</span></p>
+      <p
+        begin="00:16:16.685"
+        end="00:16:21.732"><span region="Default">Jadi, saya dan kamu, kita akan mulakan<br/>satu pengembaraan terakhir bersama.</span></p>
+      <p
+        begin="00:16:21.815"
+        end="00:16:26.236"><span region="Default">Pengembaraan yang merentasi<br/>muzik selama 18 tahun.</span></p>
+      <p
+        begin="00:16:26.320"
+        end="00:16:29.448"><span region="Default">Satu era demi satu era.</span></p>
+      <p
+        begin="00:16:29.531"
+        end="00:16:31.325"><span region="Default">Kamu sudah bersedia, Vancouver?</span></p>
+      <p
+        begin="00:16:37.456"
+        end="00:16:40.709"><span region="Default">Ada satu hal yang kamu perlu tahu.<br/>Kamu akan dengar banyak lagu.</span></p>
+      <p
+        begin="00:16:40.792"
+        end="00:16:42.920"><span region="Default">Ada banyak lagu dalam persembahan ini.</span></p>
+      <p
+        begin="00:16:43.003"
+        end="00:16:46.006"><span region="Default">Lagu-lagu ini saya tulis<br/>berdasarkan pengalaman hidup,</span></p>
+      <p
+        begin="00:16:46.089"
+        end="00:16:47.674"><span region="Default">rasa yang pernah saya simpan</span></p>
+      <p
+        begin="00:16:47.758"
+        end="00:16:50.636"><span region="Default">atau perkara yang saya bayangkan.</span></p>
+      <p
+        begin="00:16:50.719"
+        end="00:16:52.429"><span region="Default">Mungkin kamu teringat kisah hidup</span></p>
+      <p
+        begin="00:16:52.513"
+        end="00:16:54.973"><span region="Default">apabila kamu dengar lagu-lagu itu,</span></p>
+      <p
+        begin="00:16:55.057"
+        end="00:16:57.059"><span region="Default">tapi semua itu bakal berubah malam ini,</span></p>
+      <p
+        begin="00:16:57.142"
+        end="00:17:00.270"><span region="Default">kerana selepas malam ini,<br/>apabila kamu dengar lagu-lagu itu,</span></p>
+      <p
+        begin="00:17:00.354"
+        end="00:17:03.273"><span region="Default">kamu akan teringat kenangan<br/>yang kita cipta bersama malam ini,</span></p>
+      <p
+        begin="00:17:03.357"
+        end="00:17:04.566"><span region="Default">di The Eras Tour!</span></p>
+      <p
+        begin="00:17:04.650"
+        end="00:17:06.235"><span region="Default">Saya akan temani kamu malam ini.</span></p>
+      <p
+        begin="00:17:07.027"
+        end="00:17:08.070"><span region="Default">Nama saya Taylor.</span></p>
+      <p
+        begin="00:25:40.582"
+        end="00:25:41.792"><span region="Default">Baiklah, Vancouver.</span></p>
+      <p
+        begin="00:25:42.459"
+        end="00:25:44.336"><span region="Default">Dah sedia nak kembali ke zaman sekolah?</span></p>
+      <p
+        begin="00:29:23.222"
+        end="00:29:24.806"><span region="Default">Saya sayang awak.</span></p>
+      <p
+        begin="00:35:05.606"
+        end="00:35:06.857"><span region="Default">INI BUKAN VERSI TAYLOR</span></p>
+      <p
+        begin="00:41:16.852"
+        end="00:41:18.562"><span region="Default">Buat terakhir kalinya, tak nak!</span></p>
+      <p
+        begin="00:45:15.424"
+        end="00:45:17.968"><span region="Default">Bagaimana Vancouver?<br/>Seronok tak Era Red setakat ini?</span></p>
+      <p
+        begin="00:45:24.308"
+        end="00:45:26.643"><span region="Default">Jelajah kali ini</span></p>
+      <p
+        begin="00:45:26.727"
+        end="00:45:29.730"><span region="Default">memang lain daripada semua jelajah<br/>yang saya pernah buat</span></p>
+      <p
+        begin="00:45:30.606"
+        end="00:45:33.233"><span region="Default">dalam pelbagai aspek.</span></p>
+      <p
+        begin="00:45:34.026"
+        end="00:45:35.944"><span region="Default">Tapi apa yang saya boleh katakan,</span></p>
+      <p
+        begin="00:45:37.362"
+        end="00:45:39.948"><span region="Default">saya dah mula buat persembahan<br/>sejak umur 15 tahun dan…</span></p>
+      <p
+        begin="00:45:41.158"
+        end="00:45:43.243"><span region="Default">inilah apa yang saya buat pada awalnya.</span></p>
+      <p
+        begin="00:45:43.327"
+        end="00:45:46.830"><span region="Default">Saya jadi penyanyi pembuka<br/>untuk ramai artis selama beberapa tahun.</span></p>
+      <p
+        begin="00:45:46.914"
+        end="00:45:50.375"><span region="Default">Kemudian apabila saya mula dapat peluang<br/>untuk buat jelajah sendiri,</span></p>
+      <p
+        begin="00:45:50.459"
+        end="00:45:53.212"><span region="Default">saya keluarkan album,<br/>kemudian saya buat jelajah</span></p>
+      <p
+        begin="00:45:53.295"
+        end="00:45:55.088"><span region="Default">dengan nama album itu.</span></p>
+      <p
+        begin="00:45:55.172"
+        end="00:45:56.590"><span region="Default">Jelajah Fearless,</span></p>
+      <p
+        begin="00:45:56.673"
+        end="00:45:59.635"><span region="Default">Jelajah Speak Now,<br/>Jelajah Red, 1989, Reputation…</span></p>
+      <p
+        begin="00:46:00.177"
+        end="00:46:01.386"><span region="Default">Semuanya…</span></p>
+      <p
+        begin="00:46:01.470"
+        end="00:46:05.682"><span region="Default">Formula yang sama<br/>untuk masa yang sangat lama.</span></p>
+      <p
+        begin="00:46:05.766"
+        end="00:46:06.850"><span region="Default">Dan…</span></p>
+      <p
+        begin="00:46:08.101"
+        end="00:46:09.436"><span region="Default">Kemudian,</span></p>
+      <p
+        begin="00:46:10.020"
+        end="00:46:14.441"><span region="Default">sedar-sedar, saya dah hasilkan muzik<br/>dengan begitu banyak dan begitu cepat,</span></p>
+      <p
+        begin="00:46:15.651"
+        end="00:46:18.529"><span region="Default">sehingga saya perlu fikirkan cara baharu.</span></p>
+      <p
+        begin="00:46:18.612"
+        end="00:46:21.823"><span region="Default">Saya harap ia sesuatu<br/>yang kamu semua akan suka.</span></p>
+      <p
+        begin="00:46:21.907"
+        end="00:46:24.993"><span region="Default">Maka lahirlah idea The Eras Tour.</span></p>
+      <p
+        begin="00:46:30.374"
+        end="00:46:33.377"><span region="Default">Perkara paling luar biasa<br/>tentang semua ini</span></p>
+      <p
+        begin="00:46:33.460"
+        end="00:46:35.712"><span region="Default">dan kenapa ini jelajah saya<br/>yang paling panjang,</span></p>
+      <p
+        begin="00:46:35.796"
+        end="00:46:38.549"><span region="Default">saya tak pernah buat<br/>sebanyak ini dalam satu jelajah</span></p>
+      <p
+        begin="00:46:40.133"
+        end="00:46:41.718"><span region="Default">kerana kamu semua menjadikannya</span></p>
+      <p
+        begin="00:46:41.802"
+        end="00:46:46.098"><span region="Default">sesuatu yang langsung tak sama dengan<br/>apa-apa yang saya pernah buat sebelum ini.</span></p>
+      <p
+        begin="00:46:46.181"
+        end="00:46:49.142"><span region="Default">Dengan tradisi kamu, dengan semangat kamu,</span></p>
+      <p
+        begin="00:46:49.226"
+        end="00:46:53.105"><span region="Default">dengan cara kamu betul-betul hargai<br/>jelajah ini, memang tiada bandingan.</span></p>
+      <p
+        begin="00:46:53.188"
+        end="00:46:55.357"><span region="Default">Saya tak pernah rasa<br/>pengalaman seperti ini.</span></p>
+      <p
+        begin="00:46:55.858"
+        end="00:46:59.278"><span region="Default">Saya tak pernah sangka</span></p>
+      <p
+        begin="00:46:59.361"
+        end="00:47:01.530"><span region="Default">dengan satu lirik<br/>tentang gelang persahabatan,</span></p>
+      <p
+        begin="00:47:01.613"
+        end="00:47:05.784"><span region="Default">kamu semua buat<br/>beribu-ribu gelang persahabatan.</span></p>
+      <p
+        begin="00:47:08.203"
+        end="00:47:11.123"><span region="Default">Berkawan dan membawa kegembiraan<br/>kepada satu sama lain.</span></p>
+      <p
+        begin="00:47:11.206"
+        end="00:47:14.334"><span region="Default">Saya rasa legasi<br/>yang akan terus kekal dari jelajah ini</span></p>
+      <p
+        begin="00:47:14.418"
+        end="00:47:17.838"><span region="Default">ialah bagaimana kamu semua<br/>telah cipta ruang yang penuh kegembiraan,</span></p>
+      <p
+        begin="00:47:17.921"
+        end="00:47:23.677"><span region="Default">kebersamaan dan kasih sayang.</span></p>
+      <p
+        begin="00:47:23.760"
+        end="00:47:27.764"><span region="Default">Saya betul-betul bangga dengan kamu.</span></p>
+      <p
+        begin="00:47:27.848"
+        end="00:47:29.683"><span region="Default">Itu semua datang daripada kamu.</span></p>
+      <p
+        begin="00:47:29.766"
+        end="00:47:32.144"><span region="Default">Apabila orang ingat jelajah ini,<br/>mereka akan ingat</span></p>
+      <p
+        begin="00:47:32.227"
+        end="00:47:34.188"><span region="Default">perasaan bersama kamu sebagai penonton.</span></p>
+      <p
+        begin="00:47:34.771"
+        end="00:47:38.859"><span region="Default">Jadi saya cuma nak katakan,<br/>kamulah punca semua ini begitu istimewa.</span></p>
+      <p
+        begin="00:47:38.942"
+        end="00:47:42.070"><span region="Default">Sebab kamu sokong saya selama ini,</span></p>
+      <p
+        begin="00:47:42.154"
+        end="00:47:47.784"><span region="Default">saya dapat lalui kenangan setiap era<br/>dalam hidup saya setiap malam</span></p>
+      <p
+        begin="00:47:47.868"
+        end="00:47:50.579"><span region="Default">sebab kamu ambil berat tentang setiap era</span></p>
+      <p
+        begin="00:47:50.662"
+        end="00:47:53.749"><span region="Default">dalam perjalanan saya membuat muzik.</span></p>
+      <p
+        begin="00:47:53.832"
+        end="00:47:56.043"><span region="Default">Terima kasih untuk kenangan itu.</span></p>
+      <p
+        begin="00:48:00.255"
+        end="00:48:01.381"><span region="Default">Sebenarnya,</span></p>
+      <p
+        begin="00:48:02.174"
+        end="00:48:04.510"><span region="Default">ada satu lagi lagu Red<br/>yang saya nak nyanyikan,</span></p>
+      <p
+        begin="00:48:04.593"
+        end="00:48:08.055"><span region="Default">kalau kamu boleh luangkan sepuluh minit.</span></p>
+      <p
+        begin="01:10:16.925"
+        end="01:10:19.428"><span region="Default">Satu, dua, tiga!</span></p>
+      <p
+        begin="01:26:55.966"
+        end="01:26:59.178"><span region="Default">Saya tak percaya saya akan nyanyikan</span></p>
+      <p
+        begin="01:26:59.261"
+        end="01:27:02.181"><span region="Default">lagu terakhir yang pernah saya nyanyikan<br/>di kabin folklore.</span></p>
+      <p
+        begin="01:27:02.264"
+        end="01:27:03.348"><span region="Default">Memang gila.</span></p>
+      <p
+        begin="01:27:03.932"
+        end="01:27:05.350"><span region="Default">Oh, Tuhan.</span></p>
+      <p
+        begin="01:27:08.353"
+        end="01:27:11.315"><span region="Default">Kabin folklore<br/>di mana saya sedang berdiri…</span></p>
+      <p
+        begin="01:27:13.275"
+        end="01:27:15.027"><span region="Default">seluruh konsep ini</span></p>
+      <p
+        begin="01:27:15.110"
+        end="01:27:18.071"><span region="Default">berasal daripada imaginasi saya,</span></p>
+      <p
+        begin="01:27:18.155"
+        end="01:27:20.866"><span region="Default">kerana keseluruhan album folklore itu</span></p>
+      <p
+        begin="01:27:20.949"
+        end="01:27:22.743"><span region="Default">bagaikan dunia imaginasi saya.</span></p>
+      <p
+        begin="01:27:22.826"
+        end="01:27:27.623"><span region="Default">Seperti satu ruang<br/>untuk saya melarikan diri,</span></p>
+      <p
+        begin="01:27:27.706"
+        end="01:27:30.459"><span region="Default">satu tempat rekaan dalam fikiran saya,</span></p>
+      <p
+        begin="01:27:30.542"
+        end="01:27:32.836"><span region="Default">tempat saya pergi setiap hari<br/>untuk menulis lagu.</span></p>
+      <p
+        begin="01:27:32.920"
+        end="01:27:34.838"><span region="Default">Ia memang membantu saya lupakan</span></p>
+      <p
+        begin="01:27:34.922"
+        end="01:27:37.466"><span region="Default">tentang apa yang berlaku<br/>dalam dunia ketika itu,</span></p>
+      <p
+        begin="01:27:37.549"
+        end="01:27:40.761"><span region="Default">sebab saya mula menulis folklore</span></p>
+      <p
+        begin="01:27:40.844"
+        end="01:27:42.763"><span region="Default">lebih kurang dua hari selepas pandemik.</span></p>
+      <p
+        begin="01:27:42.846"
+        end="01:27:46.391"><span region="Default">Jadi ini adalah cara untuk saya…</span></p>
+      <p
+        begin="01:27:47.434"
+        end="01:27:48.644"><span region="Default">mencari perspektif baru.</span></p>
+      <p
+        begin="01:27:48.727"
+        end="01:27:51.605"><span region="Default">Apa yang berlaku akhirnya<br/>ialah saya hasilkan sebuah album</span></p>
+      <p
+        begin="01:27:52.773"
+        end="01:27:55.609"><span region="Default">yang memaksa saya bercerita<br/>dalam cara yang berbeza.</span></p>
+      <p
+        begin="01:27:55.692"
+        end="01:27:58.612"><span region="Default">Selalunya dalam penulisan lagu,</span></p>
+      <p
+        begin="01:27:58.695"
+        end="01:28:01.865"><span region="Default">saya sedikit cenderung<br/>untuk menjadi watak utama,</span></p>
+      <p
+        begin="01:28:01.949"
+        end="01:28:05.619"><span region="Default">macam saya akan menulis<br/>daripada sudut peribadi dan autobiografi.</span></p>
+      <p
+        begin="01:28:05.702"
+        end="01:28:07.120"><span region="Default">Saya rasa kamu pun tahu.</span></p>
+      <p
+        begin="01:28:09.540"
+        end="01:28:10.916"><span region="Default">Dengan folklore, saya fikir,</span></p>
+      <p
+        begin="01:28:10.999"
+        end="01:28:15.337"><span region="Default">"Apa kata kali ini<br/>saya jadi pencerita saja.</span></p>
+      <p
+        begin="01:28:15.420"
+        end="01:28:17.923"><span region="Default">Saya cipta watak,</span></p>
+      <p
+        begin="01:28:18.006"
+        end="01:28:21.009"><span region="Default">biar watak-watak ini jatuh cinta,<br/>hati mereka hancur</span></p>
+      <p
+        begin="01:28:21.093"
+        end="01:28:24.930"><span region="Default">dan berlaku macam-macam drama."</span></p>
+      <p
+        begin="01:28:25.013"
+        end="01:28:28.600"><span region="Default">Saya cumalah pencerita.</span></p>
+      <p
+        begin="01:28:28.684"
+        end="01:28:31.395"><span region="Default">Saya hanya bekerja.<br/>Saya cuma ceritakan kisah mereka.</span></p>
+      <p
+        begin="01:28:32.688"
+        end="01:28:34.648"><span region="Default">Itulah yang saya buat.</span></p>
+      <p
+        begin="01:28:34.731"
+        end="01:28:38.068"><span region="Default">Ini kisah tentang seorang gadis<br/>yang bernama Betty.</span></p>
+      <p
+        begin="01:32:51.822"
+        end="01:32:54.533"><span region="Default">Folklore sebenarnya ada album selari.</span></p>
+      <p
+        begin="01:32:55.951"
+        end="01:32:59.204"><span region="Default">Saya juga sangat bangga dengan album itu.<br/>Namanya evermore.</span></p>
+      <p
+        begin="01:33:05.377"
+        end="01:33:06.920"><span region="Default">Untuk evermore…</span></p>
+      <p
+        begin="01:33:08.255"
+        end="01:33:10.549"><span region="Default">Saya panggilnya album selari<br/>kepada folklore</span></p>
+      <p
+        begin="01:33:10.632"
+        end="01:33:13.760"><span region="Default">sebab saya tulis album itu<br/>sebaik saja folklore siap.</span></p>
+      <p
+        begin="01:33:13.844"
+        end="01:33:16.847"><span region="Default">Tidak ada senggang langsung<br/>antara kedua-dua album.</span></p>
+      <p
+        begin="01:33:18.432"
+        end="01:33:21.143"><span region="Default">Ia keluar beberapa bulan selepas folklore,</span></p>
+      <p
+        begin="01:33:21.226"
+        end="01:33:25.272"><span region="Default">masih berada dalam dunia penceritaan</span></p>
+      <p
+        begin="01:33:25.355"
+        end="01:33:27.608"><span region="Default">dan pelarian yang sama.</span></p>
+      <p
+        begin="01:33:27.691"
+        end="01:33:30.235"><span region="Default">Apabila saya menyanyikan lagu-lagu</span></p>
+      <p
+        begin="01:33:30.319"
+        end="01:33:32.863"><span region="Default">dari fasa hidup itu,</span></p>
+      <p
+        begin="01:33:34.072"
+        end="01:33:35.866"><span region="Default">ia mengingatkan saya kepada perasaan</span></p>
+      <p
+        begin="01:33:35.949"
+        end="01:33:38.660"><span region="Default">selepas saya siapkan lagu<br/>yang saya benar-benar bangga.</span></p>
+      <p
+        begin="01:33:39.578"
+        end="01:33:41.663"><span region="Default">Perasaan itu sangat kuat,</span></p>
+      <p
+        begin="01:33:41.747"
+        end="01:33:44.750"><span region="Default">sebab kalau kamu ingat waktu itu,</span></p>
+      <p
+        begin="01:33:45.459"
+        end="01:33:47.628"><span region="Default">kita langsung tak tahu masa depan konsert.</span></p>
+      <p
+        begin="01:33:47.711"
+        end="01:33:50.422"><span region="Default">Kita tak tahu sama ada<br/>kita dapat buat begini lagi,</span></p>
+      <p
+        begin="01:33:50.506"
+        end="01:33:52.549"><span region="Default">dapat berkumpul seperti ini lagi,</span></p>
+      <p
+        begin="01:33:52.633"
+        end="01:33:55.385"><span region="Default">menyanyi lirik yang sama secara serentak,</span></p>
+      <p
+        begin="01:33:55.469"
+        end="01:33:58.722"><span region="Default">rasa dekat antara satu sama lain<br/>seperti kita semua pernah laluinya.</span></p>
+      <p
+        begin="01:34:04.561"
+        end="01:34:09.650"><span region="Default">Jadi setiap kali<br/>saya selesai menulis lagu,</span></p>
+      <p
+        begin="01:34:09.733"
+        end="01:34:12.528"><span region="Default">saya akan terfikir,<br/>"Agaknya, adakah saya akan dapat</span></p>
+      <p
+        begin="01:34:13.779"
+        end="01:34:16.698"><span region="Default">nyanyikan champagne problems<br/>di stadium di Vancouver nanti?"</span></p>
+      <p
+        begin="01:39:06.321"
+        end="01:39:08.949"><span region="Default">Tiga, dua, satu.</span></p>
+      <p
+        begin="01:39:09.032"
+        end="01:39:13.120"><span region="Default">Selamat hari jadi</span></p>
+      <p
+        begin="01:39:13.203"
+        end="01:39:16.290"><span region="Default">Selamat hari jadi</span></p>
+      <p
+        begin="01:39:16.373"
+        end="01:39:19.710"><span region="Default">Selamat hari jadi, Taylor</span></p>
+      <p
+        begin="01:39:21.378"
+        end="01:39:26.049"><span region="Default">Selamat hari jadi</span></p>
+      <p
+        begin="01:41:09.152"
+        end="01:41:14.032"><span region="Default">Terima kasih. Sebenarnya, jelajah ini<br/>pengalaman paling bermakna dalam hidup.</span></p>
+      <p
+        begin="01:41:14.116"
+        end="01:41:19.079"><span region="Default">Saya sampaikan bagi pihak<br/>kumpulan muzik, kru dan para penari…</span></p>
+      <p
+        begin="01:41:19.162"
+        end="01:41:21.081"><span region="Default">Mereka tinggalkan keluarga mereka,</span></p>
+      <p
+        begin="01:41:21.164"
+        end="01:41:24.626"><span region="Default">berjauhan daripada segala<br/>yang mereka kenal dan sayang</span></p>
+      <p
+        begin="01:41:24.710"
+        end="01:41:29.882"><span region="Default">dan mereka tetap buat persembahan walaupun<br/>sakit atau sedang lalui pergolakan hidup.</span></p>
+      <p
+        begin="01:41:29.965"
+        end="01:41:32.634"><span region="Default">Mereka pastikan persembahan ini<br/>tetap diteruskan.</span></p>
+      <p
+        begin="01:41:32.718"
+        end="01:41:35.929"><span region="Default">Jadi saya cuma nak cakap,<br/>bagi pihak kami semua,</span></p>
+      <p
+        begin="01:41:36.013"
+        end="01:41:38.974"><span region="Default">kami takkan lupa detik yang kamu berikan<br/>kepada kami malam ini.</span></p>
+      <p
+        begin="01:41:39.057"
+        end="01:41:41.310"><span region="Default">Terima kasih banyak, Vancouver.</span></p>
+      <p
+        begin="01:41:41.310"
+        end="01:41:45.815"><span region="Default">Vancouver, kini tibalah segmen akustik<br/>terakhir The Eras Tour.</span></p>
+      <p
+        begin="01:41:45.815"
+        end="01:41:50.487"><span region="Default">Segmen akustik ini adalah segmen</span></p>
+      <p
+        begin="01:41:50.487"
+        end="01:41:52.572"><span region="Default">yang saya wujudkan khas<br/>untuk The Eras Tour.</span></p>
+      <p
+        begin="01:41:52.572"
+        end="01:41:55.033"><span region="Default">Tujuannya adalah untuk mencabar diri saya</span></p>
+      <p
+        begin="01:41:55.033"
+        end="01:41:57.744"><span region="Default">untuk menyanyikan banyak lagu</span></p>
+      <p
+        begin="01:41:57.744"
+        end="01:41:59.913"><span region="Default">dari pelbagai era dan album,</span></p>
+      <p
+        begin="01:41:59.913"
+        end="01:42:02.207"><span region="Default">cuba untuk…</span></p>
+      <p
+        begin="01:42:02.207"
+        end="01:42:05.085"><span region="Default">Setiap malam, saya akan cuba teka lagu apa</span></p>
+      <p
+        begin="01:42:05.085"
+        end="01:42:07.379"><span region="Default">yang kamu mungkin nak dengar.</span></p>
+      <p
+        begin="01:42:07.379"
+        end="01:42:09.756"><span region="Default">Jadi, setiap malam, sentiasa berbeza.</span></p>
+      <p
+        begin="01:42:09.756"
+        end="01:42:13.009"><span region="Default">Saya akan mulakan dengan gitar,<br/>kemudian saya akan beralih ke piano.</span></p>
+      <p
+        begin="01:42:13.009"
+        end="01:42:15.970"><span region="Default">Saya terfikir tentang malam ini,</span></p>
+      <p
+        begin="01:42:15.970"
+        end="01:42:20.182"><span region="Default">sebab kami dah lama buat persiapan</span></p>
+      <p
+        begin="01:42:20.182"
+        end="01:42:23.060"><span region="Default">untuk penutup jelajah ini.</span></p>
+      <p
+        begin="01:42:23.060"
+        end="01:42:25.229"><span region="Default">Jadi saya memikirkan tentang…</span></p>
+      <p
+        begin="01:42:25.229"
+        end="01:42:28.690"><span region="Default">lagu yang benar-benar menggambarkan<br/>perasaan saya tentang malam ini.</span></p>
+      <p
+        begin="01:42:28.690"
+        end="01:42:31.568"><span region="Default">Akhirnya, saya putuskan<br/>untuk kembali ke permulaan.</span></p>
+      <p
+        begin="01:42:31.568"
+        end="01:42:32.569"><span region="Default">Hebat!</span></p>
+      <p
+        begin="01:42:32.569"
+        end="01:42:33.570"><span region="Default">Hebat!</span></p>
+      <p
+        begin="01:42:33.570"
+        end="01:42:36.115"><span region="Default">Vancouver, saya ucapkan terima kasih<br/>kepada kamu semua</span></p>
+      <p
+        begin="01:42:36.115"
+        end="01:42:42.622"><span region="Default">kerana menjadi sebahagian daripada bab<br/>paling mengujakan dalam hidup setakat ini,</span></p>
+      <p
+        begin="01:42:42.622"
+        end="01:42:44.124"><span region="Default">The Eras Tour yang saya cintai.</span></p>
+      <p
+        begin="01:42:44.124"
+        end="01:42:48.128"><span region="Default">Terima kasih bersama saya malam ini.<br/>Boleh berikan kami satu lagu terakhir?</span></p>
+      <p
+        begin="01:42:48.128"
+        end="01:42:51.548"><span region="Default">Vancouver, saya sangat sayangkan kamu.</span></p>
+      <p
+        begin="01:42:51.548"
+        end="01:42:54.801"><span region="Default">Terima kasih sebab berikan<br/>segala-galanya pada malam ini.</span></p>
+      <p
+        begin="01:42:54.801"
+        end="01:42:57.721"><span region="Default">Boleh beri sorakan paling gemuruh<br/>sepanjang jelajah ini</span></p>
+      <p
+        begin="01:42:57.721"
+        end="01:43:00.933"><span region="Default">untuk para penari luar biasa<br/>yang telah menjayakan malam ini?</span></p>
+      <p
+        begin="01:43:00.933"
+        end="01:43:03.936"><span region="Default">Ketika mereka memberikan<br/>tunduk hormat terakhir mereka,</span></p>
+      <p
+        begin="01:43:03.936"
+        end="01:43:07.231"><span region="Default">boleh kamu raikan juga barisan<br/>vokalis sokongan saya yang menakjubkan</span></p>
+      <p
+        begin="01:43:07.231"
+        end="01:43:09.817"><span region="Default">dengan tepukan yang paling meriah?</span></p>
+      <p
+        begin="01:43:09.817"
+        end="01:43:12.903"><span region="Default">Vancouver, boleh arahkan perhatian<br/>ke pentas utama</span></p>
+      <p
+        begin="01:43:12.903"
+        end="01:43:17.032"><span region="Default">dan berikan kasih sayang yang paling besar</span></p>
+      <p
+        begin="01:43:17.032"
+        end="01:43:20.161"><span region="Default">untuk kumpulan pemuzik terbaik<br/>di seluruh dunia?</span></p>
+      <p
+        begin="01:43:20.161"
+        end="01:43:21.370"><span region="Default">Oh, Tuhan.</span></p>
+      <p
+        begin="01:43:21.370"
+        end="01:43:22.538"><span region="Default">Oh, Tuhan.</span></p>
+      <p
+        begin="01:43:22.538"
+        end="01:43:24.123"><span region="Default">Oh, Tuhan.</span></p>
+      <p
+        begin="01:43:24.123"
+        end="01:43:27.502"><span region="Default">UCAPAN PENGHARGAAN ISTIMEWA<br/>KEPADA SELURUH STAF DAN KRU JELAJAH</span></p>
+      <p
+        begin="01:43:27.502"
+        end="01:43:30.880"><span region="Default">DI BELAKANG TABIR YANG TANPA JEMU<br/>MEMASTIKAN JELAJAH INI BERLANGSUNG.</span></p>
+      <p
+        begin="01:43:30.880"
+        end="01:43:34.258"><span region="Default">SAYA TAKKAN PERNAH LUPA PENGEMBARAAN KITA<br/>MENGELILINGI DUNIA BERSAMA.</span></p>
+      <p
+        begin="01:43:34.258"
+        end="01:43:36.677"><span region="Default">BUAT PASUKAN SAYA, 13 MANAGEMENT…</span></p>
+      <p
+        begin="01:43:36.677"
+        end="01:43:39.096"><span region="Default">APA YANG KAMU SENTUH,<br/>KAMU GILAP HINGGA BERSINAR.</span></p>
+      <p
+        begin="01:43:39.096"
+        end="01:43:41.515"><span region="Default">SAYA BANGGA DAPAT BEKERJA<br/>BERSAMA KAMU SEMUA.</span></p>
+      <p
+        begin="01:43:41.515"
+        end="01:43:43.934"><span region="Default">KENANGAN INI AKAN KITA SIMPAN SELAMANYA.</span></p>
+      <p
+        begin="01:43:43.934"
+        end="01:43:46.895"><span region="Default">PENGHARGAAN YANG PALING BESAR<br/>DITUJUKAN KEPADA PARA PEMINAT.</span></p>
+      <p
+        begin="01:43:46.895"
+        end="01:43:49.857"><span region="Default">KAMULAH NADI DAN JIWA THE ERAS TOUR.</span></p>
+      <p
+        begin="01:43:49.857"
+        end="01:43:51.859"><span region="Default">Diterjemahkan oleh Miza Khamis</span></p>
+    </div>
+  </body>
+</tt>
